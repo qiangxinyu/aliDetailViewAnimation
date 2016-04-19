@@ -14,6 +14,8 @@
 		1819CA261B7CBC6600BE5E09 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1819CA251B7CBC6600BE5E09 /* Images.xcassets */; };
 		1819CA291B7CBC6600BE5E09 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1819CA271B7CBC6600BE5E09 /* LaunchScreen.xib */; };
 		1819CA351B7CBC6600BE5E09 /* testAnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1819CA341B7CBC6600BE5E09 /* testAnimationTests.m */; };
+		1819CA401B7CC05F00BE5E09 /* orange_hexagon.png in Resources */ = {isa = PBXBuildFile; fileRef = 1819CA3E1B7CC05F00BE5E09 /* orange_hexagon.png */; };
+		1819CA411B7CC05F00BE5E09 /* orange_hexagon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1819CA3F1B7CC05F00BE5E09 /* orange_hexagon@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,8 @@
 		1819CA2E1B7CBC6600BE5E09 /* testAnimationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testAnimationTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1819CA331B7CBC6600BE5E09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1819CA341B7CBC6600BE5E09 /* testAnimationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testAnimationTests.m; sourceTree = "<group>"; };
+		1819CA3E1B7CC05F00BE5E09 /* orange_hexagon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = orange_hexagon.png; sourceTree = "<group>"; };
+		1819CA3F1B7CC05F00BE5E09 /* orange_hexagon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "orange_hexagon@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 		1819CA0C1B7CBC6600BE5E09 = {
 			isa = PBXGroup;
 			children = (
+				1819CA3E1B7CC05F00BE5E09 /* orange_hexagon.png */,
+				1819CA3F1B7CC05F00BE5E09 /* orange_hexagon@2x.png */,
 				1819CA171B7CBC6600BE5E09 /* testAnimation */,
 				1819CA311B7CBC6600BE5E09 /* testAnimationTests */,
 				1819CA161B7CBC6600BE5E09 /* Products */,
@@ -201,7 +207,9 @@
 			files = (
 				1819CA241B7CBC6600BE5E09 /* Main.storyboard in Resources */,
 				1819CA291B7CBC6600BE5E09 /* LaunchScreen.xib in Resources */,
+				1819CA401B7CC05F00BE5E09 /* orange_hexagon.png in Resources */,
 				1819CA261B7CBC6600BE5E09 /* Images.xcassets in Resources */,
+				1819CA411B7CC05F00BE5E09 /* orange_hexagon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
